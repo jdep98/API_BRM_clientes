@@ -1,0 +1,11 @@
+{
+  "clientes": [
+    {
+      "nombre": "Prueba Prueba",
+      "telefono": "123456789",
+      "nacimiento": "1998-10-03",
+      "email": "jescorciapino14@gmail.com",
+      "id": 2
+    }
+  ]
+}
